@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0%;
+}
+
+body > footer {
+  background-color: rgb(90, 120, 150);
+}
+
+body > footer {
+  padding: 16px;
+  color: white;
+  text-align: center;
+}
+
+body > header {
+  background-color: rgb(90, 120, 150);
+  color: white;
+}
+
+nav > ul {
+  list-style: none;
+}
+
+/* body > header > nav > ul > li > a {
+  color: white;
+} */
+#navigation > li > a {
+  color: white;
+}
+
+body > main > article > aside > section > ul {
+  list-style: none;
+}
+
+#logo {
+  margin: 0%;
+  font-family: Roboto, Arial, Helvetica, sans-serif;
+}
+
+body > main > article {
+  width: 70%;
+  margin: auto;
+}
+
+form > input[type="submit"] {
+  background-color: transparent;
+  border: 1px solid rgb(90, 120, 150);
+}
